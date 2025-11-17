@@ -25,7 +25,7 @@ backend:
   image: bhargaviputti/helm-backend:first
   replicas: 2
   port: 1500
-  nodePort: 33030
+  nodePort: 32030
   resources:
     requests:
       cpu: "100m"
